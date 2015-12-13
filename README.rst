@@ -7,7 +7,7 @@ Clone this project for your own experimenting!
 
 ..  code-block:: shell
 
-    $ git clone https://github.com/rblack42/Mandlebrot.git
+    $ git clone https://github.com/d-das/Mandlebrot.git
 
 To run:
 
